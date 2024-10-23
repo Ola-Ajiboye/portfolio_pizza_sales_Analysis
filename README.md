@@ -115,3 +115,19 @@ order by worst_seller asc
 ![image](https://github.com/user-attachments/assets/765bcd6b-51bb-4676-a37a-11e8c87b915d)
 Insight:
 carre pizzas, particularly those in niche categories like others, are among the lowest performers. This may indicate that customers prefer clasic pizzas for group dining or find the flavor combinations less appealing.
+
+## Recommendation
+### Focus on Classic Pizza Promotions
+Since large pizzas are the most popular, introduce bundle deals or discounts on large pizzas during peak hours to maximize sales.
+### Inventory Management
+Allocate more ingredients to the best-selling categories, such as Classic and Supreme pizzas, while reducing stock for the underperforming pizzas.
+### Revamp the underperformance Category
+To the underperformance pizzas, consider introducing new flavors or promoting them with discounts. Alternatively, removing low-sellers from the menu could optimize operations.
+### Hourly Promotions
+Increase marketing efforts and promotions during non-peak hours (e.g., early afternoons) to boost sales outside of dinner time.
+### Menu Optimization
+Based on the worst sellers list, consider removing underperforming to streamline the menu and reduce waste.
+
+## Conclusion
+This analysis highlights key trends in pizza sales that can help optimize business operations and marketing strategies. Focusing on large pizza sales, optimizing inventory based on top-selling categories, and reevaluating underperforming items are essential for improving profitability. Future data collection should include promotional campaign performance to better understand customer responses to marketing efforts.
+
