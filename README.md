@@ -4,6 +4,8 @@
 ---
 This report presents an analysis of pizza sales trends, customer behavior, and overall market performance for a pizza chain using SQL queries. The goal of this project was to extract key insights on sales performance, customer purchasing behavior, and product popularity using various query techniques. Based on the analysis, the report provides actionable recommendations to boost sales and optimize customer engagement.
 
+[View Dashboard](https://github.com/Ola-Ajiboye/portfolio_pizza_sales_Analysis/blob/main/pizza_sales%20excel%20file.xlsx)
+
 ## Data Collection
 The data was collected from the company's internal point-of-sale (POS) system, which tracks each pizza order along with its timestamp, category, and size.
 
